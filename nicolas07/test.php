@@ -1,2 +1,2 @@
 <?php
-echo "fuk hacienda";
+echo "not fond of hacienda";
