@@ -5,12 +5,17 @@ function sergio() {
 }
 
 
+function enrique(){
+    echo "saludos";
+}
+
+
 function daniel() {
     echo "Esto es una prueba";
 }
+
 function Anahel() {
     echo "Esta es mi función";
-
 }
 
 function cristoRubenPerezSuarez() {
