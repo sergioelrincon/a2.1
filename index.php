@@ -48,4 +48,13 @@ function cristoRubenPerezSuarez() {
 function pedroGarcia(){
     echo "This is Pedro's function";
 }
+<<<<<<< HEAD
 >>>>>>> 4b88e31e3a2b1706a4f6d2af0432b5a830846c44
+=======
+
+function saul(){
+    echo "Funcion saul";
+}
+
+?>
+>>>>>>> 83cb8d1e9d96e0358e3f02429814e26e9d8405d6
