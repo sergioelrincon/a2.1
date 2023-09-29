@@ -25,3 +25,5 @@ function cristoRubenPerezSuarez() {
 function pedroGarcia(){
     echo "This is Pedro's function";
 }
+
+?>
