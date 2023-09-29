@@ -7,3 +7,7 @@ function sergio() {
 function cristoRubenPerezSuarez() {
     echo "Soy una función";
 }
+
+function pedroGarcia(){
+    echo "This is Pedro's function";
+}
