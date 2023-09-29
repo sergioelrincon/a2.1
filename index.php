@@ -33,6 +33,7 @@ function cristoRubenPerezSuarez() {
     echo "Soy una función";
 }
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -43,3 +44,8 @@ function cristoRubenPerezSuarez() {
 =======
 ?>
 >>>>>>> a44ac2223fafc2255227474974584ce5000c8b7a
+=======
+function pedroGarcia(){
+    echo "This is Pedro's function";
+}
+>>>>>>> 4b88e31e3a2b1706a4f6d2af0432b5a830846c44
