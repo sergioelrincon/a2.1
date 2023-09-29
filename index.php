@@ -5,6 +5,12 @@ function sergio() {
 }
 
 
+function raul()
+{
+    echo "Lo hice :)";
+}
+
+
 function enrique(){
     echo "saludos";
 }
