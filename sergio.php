@@ -2,6 +2,6 @@
 echo "Soy Sergio";
 
 function mifuncion() {
-    echo "Dentro de la función";
+    echo "Dentro de la función()";
 }
 ?>
