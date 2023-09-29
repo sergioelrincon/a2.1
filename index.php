@@ -22,9 +22,12 @@ function cristoRubenPerezSuarez() {
     echo "Soy una función";
 }
 
-
+function pedroGarcia(){
+    echo "This is Pedro's function";
+}
 
 function saul(){
-    echo "Función de Saúl";
+    echo "Funcion saul";
 }
+
 ?>
