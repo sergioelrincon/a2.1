@@ -26,4 +26,8 @@ function pedroGarcia(){
     echo "This is Pedro's function";
 }
 
+function saul(){
+    echo "Funcion saul";
+}
+
 ?>
