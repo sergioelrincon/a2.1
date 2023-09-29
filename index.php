@@ -12,8 +12,7 @@ function cristoRubenPerezSuarez() {
     echo "Soy una función";
 }
 
-?>
-
 function saul(){
     echo "Función de Saúl";
 }
+?>
