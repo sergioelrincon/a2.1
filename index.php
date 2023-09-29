@@ -5,6 +5,12 @@ function sergio() {
 }
 
 
+function raul()
+{
+    echo "Lo hice :)";
+}
+
+
 function enrique(){
     echo "saludos";
 }
@@ -31,4 +37,17 @@ function manuel() {
 function pedroGarcia(){
     echo "This is Pedro's function";
 }
+
+function saul(){
+    echo "Funcion saul";
+}
+
+function gonza(){
+    echo "Funcion gonza";
+}
+
+function victor(){
+    echo "Mi funcion";
+}
+?>
 
