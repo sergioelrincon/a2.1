@@ -4,17 +4,14 @@ function sergio() {
     echo "Esta es mi función";
 }
 
-
 function raul()
 {
     echo "Lo hice :)";
 }
 
-
 function enrique(){
     echo "saludos";
 }
-
 
 function daniel() {
     echo "Esto es una prueba";
@@ -28,11 +25,9 @@ function cristoRubenPerezSuarez() {
     echo "Soy una función";
 }
 
-
 function manuel() {
     echo "Esta es mi función";
 }
-
 
 function pedroGarcia(){
     echo "This is Pedro's function";
@@ -50,4 +45,3 @@ function victor(){
     echo "Mi funcion";
 }
 ?>
-
