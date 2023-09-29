@@ -30,6 +30,10 @@ function saul(){
     echo "Funcion saul";
 }
 
+function gonza(){
+    echo "Funcion gonza";
+}
+
 function victor(){
     echo "Mi funcion";
 }
