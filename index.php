@@ -12,4 +12,8 @@ function cristoRubenPerezSuarez() {
     echo "Soy una función";
 }
 
+function manuel() {
+    echo "Esta es mi función";
+}
+
 ?>
